@@ -1,0 +1,11 @@
+Portal Illusion
+
+Put A at: 0
+Ask A
+Pen writing
+
+Repeat 10000 
+ Move forward from A pixel 
+ Rotate 89° 
+ Put A to: A+1
+end
