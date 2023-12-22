@@ -1,0 +1,11 @@
+Portal Ilusion
+
+Mettre A a: 0
+Demander A
+Stylo ecrit
+
+Répéter 10000
+ Avencer de A pixel
+ Tourner de 89°
+ Mettre A a: A+1
+fin
