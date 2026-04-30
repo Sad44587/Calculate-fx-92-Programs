@@ -1,0 +1,14 @@
+------------------------------
+Go to x = -100 ; y = -10
+Set A = 0
+Write with pen
+Ask A
+
+Repeat 10000:
+    Go to x = x ; y = 10
+    Rotate A Pixels
+    Move to 10px
+    Go to x = x ; y = -15
+    Move forward 10px
+Fin
+------------------------------
