@@ -1,0 +1,40 @@
+// External Utils: pi
+
+Example 1:
+
+------------------------------
+Go to x = 100; y = -10
+Set A to 0
+Write with pen
+
+Repeat 10000
+    Move forward 5px
+    Set A + /pi/ x 10
+    Orient at sin(A) x 100
+End
+------------------------------
+
+Example 2:
+------------------------------
+Go to x = -100; y = -10
+Set A = 0
+Write with pen
+Ask for B
+Ask for A
+
+If B = 1:
+    Repeat 10000:
+        Move forward 5 pixels
+        A = A + π x 10
+        Move to sin(A) x 100
+   End
+End
+
+If B = 2:
+    Repeat 10000:
+        Move forward 5 pixels
+        A = A + π x 10
+        Move to cos(A) x 100
+   End
+End
+------------------------------
