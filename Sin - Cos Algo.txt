@@ -24,7 +24,7 @@ Ask for A
 If B = 1:
     Repeat 10000:
         Move forward 5 pixels
-        A = A + π x 10
+        A = A + /pi/ x 10
         Move to sin(A) x 100
    End
 End
@@ -32,7 +32,7 @@ End
 If B = 2:
     Repeat 10000:
         Move forward 5 pixels
-        A = A + π x 10
+        A = A + /pi/ x 10
         Move to cos(A) x 100
    End
 End
